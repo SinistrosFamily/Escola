@@ -14,9 +14,4 @@ git config --list
 
 echo - download da pasta da Aula - PW
 
-git clone https://github.com/davivilar/pwi-davi.vilar2026.git
-
-echo --- Fim ---
-echo --- Joao Lindo  Saudades ---
-
-pause
+git clone https://github.com/SinistrosFamily/Escola.git
