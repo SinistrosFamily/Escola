@@ -1,5 +1,3 @@
-echo OFF
-
 echo --- Retirando Usuario GitHUB ----
 
 git config --global --unset-all user.email
@@ -7,11 +5,9 @@ git config --global --unset-all user.name
 
 echo --- Configurando Usuario GitHUB ----
 
-git config --global user.name "Davi Vilar"
-git config --global user.email davivilar@gmail.com
+git config --global user.name "Lucas Forte"
+git config --global user.email sinistrosfamily@gmail.com
 echo --- Mostrando a configuração atual do Github no computador
 git config --list
-
-echo - download da pasta da Aula - PW
 
 git clone https://github.com/SinistrosFamily/Escola.git
